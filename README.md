@@ -4,7 +4,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Developer+FullStack">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Developper+FullStack">
     <!-- <h3 align="center">Love JS, love writting dev article and share my knowledges.</h3> -->
     <h3 align="center">I'm Full-Stack Developper</h3>
 </p>
